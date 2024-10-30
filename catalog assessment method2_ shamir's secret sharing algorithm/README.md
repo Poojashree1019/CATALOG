@@ -5,12 +5,8 @@
 A Java implementation of [Shamir's Secret Sharing
 algorithm](http://en.wikipedia.org/wiki/Shamir's_Secret_Sharing) over GF(256).
 
-## Add to your project
-
 ```xml
 <dependency>
-  <groupId>com.codahale</groupId>
-  <artifactId>shamir</artifactId>
   <version>0.7.0</version>
 </dependency>
 ```
